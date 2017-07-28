@@ -1,4 +1,4 @@
-# Country State Provide Library for Java
+# Country State Provider Library for Java
 
 This library is intended to provide the states list of a given country.
 I used this for my private project and generously borrowed the country state list 
@@ -71,4 +71,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
